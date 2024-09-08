@@ -20,11 +20,17 @@ Deposit 💰: Indicates whether the customer will make a deposit (yes/no).
 
 🧠 Knowledge Gained :
 
-Data Preprocessing 🔄: Learned to handle missing values, encode categorical variables, and scale numerical features for machine learning.
+Data Preprocessing 🔄: 
 
-Decision Tree 🌳: Gained insights into decision trees.
+Learned to handle missing values, encode categorical variables, and scale numerical features for machine learning.
 
-Hyperparameter Tuning 🛠️: Improved model performance using Grid Search CV to find optimal parameters like max_depth, min_samples_split, and min_samples_leaf.
+Decision Tree 🌳: 
+
+Gained insights into decision trees.
+
+Hyperparameter Tuning 🛠️: 
+
+Improved model performance using Grid Search CV to find optimal parameters like max_depth, min_samples_split, and min_samples_leaf.
 
 Model Evaluation 📏: Applied metrics such as accuracy, precision, recall, F1-score, and confusion matrix to assess model performance.
 
@@ -74,20 +80,16 @@ Model Performance:
 
 -New Accuracy Score: 0.91
 
--Classification Report:
+📝 Conclusion :
 
-precision    recall  f1-score   support
+The decision tree model effectively predicts customer deposits with an accuracy of 91%. The use of Grid Search CV for hyperparameter tuning has enhanced the model's performance by optimizing key parameters. This project demonstrates the power of decision trees in classification tasks and highlights the importance of model evaluation and optimization.
 
-           0       0.94      0.96      0.95      7269
-           1       0.66      0.55      0.60       967
+📫 Contact
+For questions or further information, feel free to reach out:
 
-    accuracy                           0.91      8236
-   macro avg       0.80      0.75      0.77      8236
-weighted avg       0.91      0.91      0.91      8236
+Email: oueslatioumayma157@gmail.com
+LinkedIn: www.linkedin.com/in/oumayma-oueslati-12a5462b2
 
--Confusion Matrix:
 
-[[6992  277]
-[ 439  528]]
 
 
